@@ -18,16 +18,20 @@ https://pokeapi.co/
 
 Utilizada a URL:
 https://pokeapi.co/api/v2/berry
+
 **********************************************
 <h2>Site para o teste de API - POST</h2>
 https://jsonplaceholder.typicode.com/posts
 
 Utilizada a URL:
 https://jsonplaceholder.typicode.com/posts
+
 **********************************************
 <h2>Site para o teste de API - DELETE</h2>
 https://api.restful-api.dev/objects
+
 **********************************************
 <h2>Site para o teste de API - PUT</h2>h2>
 https://api.restful-api.dev/objects
+
 **********************************************
