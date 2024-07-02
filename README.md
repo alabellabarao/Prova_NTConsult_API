@@ -12,30 +12,22 @@
     <li>Realize ao menos um teste positivo e um teste negativo para cada método(GET, POST, PUT/PATCH e DELETE).</li>
   </ol>
 
-  Site para o teste de API - GET
+**********************************************
+<h2>Site para o teste de API - GET</h2>
 https://pokeapi.co/
 
-<h2>Utilizada a URL:</h2>
+Utilizada a URL:
 https://pokeapi.co/api/v2/berry
-
 **********************************************
-
 <h2>Site para o teste de API - POST</h2>
 https://jsonplaceholder.typicode.com/posts
 
-<h2>Utilizada a URL:</h2>
+Utilizada a URL:
 https://jsonplaceholder.typicode.com/posts
-
-
 **********************************************
-
 <h2>Site para o teste de API - DELETE</h2>
 https://api.restful-api.dev/objects
-
 **********************************************
-
-Site para o teste de API - PUT
-
+<h2>Site para o teste de API - PUT</h2>h2>
 https://api.restful-api.dev/objects
-
 **********************************************
